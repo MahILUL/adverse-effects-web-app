@@ -1,0 +1,29 @@
+.search-form {
+    padding-top: 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Raleway';
+	margin: 0;
+}
+
+p, a, label, body, li {
+	font-family: 'Montserrat';
+}
+
+.search-form button {
+    width: 100%;
+}
+
+.empty-result {
+    margin-top: 30px;
+}
+
+element{
+    text-align:center;
+}
+.container{
+    padding:20px;
+}
+
+
